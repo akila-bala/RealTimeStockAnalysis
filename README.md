@@ -11,18 +11,15 @@ Recommended System Requirements to train model.
 
 A good CPU and a GPU with atleast 8GB memory
 Atleast 8GB of RAM
-Active internet connection so that keras can download inceptionv3/vgg16 model weights
 Required libraries for Python along with their version numbers used while making & testing of this project
 
 Python - 3.6.7
 Numpy - 1.16.4
 Tensorflow - 1.13.1
 Keras - 2.2.4
-nltk - 3.2.5
-PIL - 4.3.0
 Matplotlib - 3.0.3
-tqdm - 4.28.1
-Flickr8k Dataset
+Alpha-vantage - 3.9
+
 ## Installation
 
 Download the zip file and extract the contents into your desired place
